@@ -1,0 +1,239 @@
+H:\New folder\QLTV1\QLTV1\obj\Debug\QLTV1.csprojAssemblyReference.cache
+H:\New folder\QLTV1\QLTV1\obj\Debug\QLTV1.fLogin.resources
+H:\New folder\QLTV1\QLTV1\obj\Debug\QLTV1.Properties.Resources.resources
+H:\New folder\QLTV1\QLTV1\obj\Debug\QLTV1.csproj.GenerateResource.cache
+H:\New folder\QLTV1\QLTV1\obj\Debug\QLTV1.csproj.CoreCompileInputs.cache
+H:\New folder\QLTV1\QLTV1\obj\Debug\QLTV1.fTableManager.resources
+H:\New folder\QLTV1\QLTV1\bin\Debug\QLTV1.exe.config
+H:\New folder\QLTV1\QLTV1\bin\Debug\QLTV1.exe
+H:\New folder\QLTV1\QLTV1\bin\Debug\QLTV1.pdb
+H:\New folder\QLTV1\QLTV1\obj\Debug\QLTV1.exe
+H:\New folder\QLTV1\QLTV1\obj\Debug\QLTV1.pdb
+H:\New folder\QLTV1\QLTV1\obj\Debug\QLTV1.fAccount.resources
+H:\New folder\QLTV1\QLTV1\obj\Debug\QLTV1.csproj.CopyComplete
+H:\New folder\QLTV1\QLTV1\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\Microsoft.ReportViewer.Design.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\EnvDTE.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\stdole.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\Microsoft.MSXML.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\System.Data.SqlClient.dll
+H:\New folder\QLTV1\QLTV1\bin\Debug\System.Data.SqlClient.xml
+H:\New folder\QLTV1\QLTV1\obj\Debug\QLTV1.Report.resources
+H:\New folder\QLTV1\QLTV1\obj\Debug\RdlCompile.cache
+H:\New folder\QLTV1\QLTV1\obj\Debug\RdlCompile.compiled
+H:\New folder\QLTV1\QLTV1\obj\Debug\QLTV1.fBook.resources
+H:\New folder\QLTV1\QLTV1\obj\Debug\QLTV1.fBorrow.resources
+H:\New folder\QLTV1\QLTV1\obj\Debug\QLTV1.fReader.resources
+H:\Study\QLTV1\QLTV1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\QLTV1.exe.config
+H:\Study\QLTV1\QLTV1\bin\Debug\QLTV1.exe
+H:\Study\QLTV1\QLTV1\bin\Debug\QLTV1.pdb
+H:\Study\QLTV1\QLTV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\Microsoft.ReportViewer.Design.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\System.Data.SqlClient.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\EnvDTE.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\stdole.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\Microsoft.MSXML.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\System.Data.SqlClient.xml
+H:\Study\QLTV1\QLTV1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Study\QLTV1\QLTV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.fAccount.resources
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.fBook.resources
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.fBorrow.resources
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.fLogin.resources
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.fReader.resources
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.fTableManager.resources
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.Properties.Resources.resources
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.Report.resources
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.csproj.GenerateResource.cache
+H:\Study\QLTV1\QLTV1\obj\Debug\RdlCompile.cache
+H:\Study\QLTV1\QLTV1\obj\Debug\RdlCompile.compiled
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.csproj.CoreCompileInputs.cache
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.csproj.CopyComplete
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.exe
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.pdb
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.csproj.AssemblyReference.cache
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.ReportBook.resources
+H:\Study\QLTV1\QLTV1\obj\Debug\QLTV1.ReportReader.resources
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\QLTV1.exe.config
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\QLTV1.exe
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\QLTV1.pdb
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\EnvDTE.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\stdole.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.csprojAssemblyReference.cache
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.fAccount.resources
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.fBook.resources
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.fBorrow.resources
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.fLogin.resources
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.fReader.resources
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.fTableManager.resources
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.Properties.Resources.resources
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.Report.resources
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.ReportBook.resources
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.ReportReader.resources
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.csproj.GenerateResource.cache
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.csproj.CoreCompileInputs.cache
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.csproj.CopyComplete
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.exe
+C:\Users\augus\Downloads\Tài liệu\KTPMUD\Pig Tea\QLTV1\QLTV1\obj\Debug\QLTV1.pdb
